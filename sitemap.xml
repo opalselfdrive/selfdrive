@@ -3,9 +3,12 @@
 		<loc>http://opalselfdrive.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://opalselfdrive.com/page1.html</loc>
+		<loc>http://opalselfdrive.com/Contactform.html</loc>
 	</url>
 	<url>
-		<loc>http://opalselfdrive.com/page2.html</loc>
+		<loc>http://opalselfdrive.com/Aboutus.html</loc>
+	</url>
+	<url>
+		<loc>http://opalselfdrive.com/Ourtourpackage.html</loc>
 	</url>
 </urlset>
